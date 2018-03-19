@@ -1,0 +1,17 @@
+export const phone = '@media only screen and (min-width: 0px) and (max-width: 420px)'
+export const phablet = '@media only screen and (min-width: 420px) and (max-width: 768px)'
+export const tablet = '@media only screen and (min-width: 768px) and (max-width: 1024px)'
+export const desktop = '@media only screen and (min-width: 1024px) and (max-width: 1280px)'
+export const hd = '@media only screen and (min-width: 1280px) and (max-width: 2560px)'
+
+export const phone_max = '@media only screen and (max-width: 419px)'
+export const phablet_max = '@media only screen and (max-width: 767px)'
+export const tablet_max = '@media only screen and (max-width: 1023px)'
+export const desktop_max = '@media only screen and (max-width: 1279px)'
+export const hd_max = '@media only screen and (max-width: 2559px)'
+
+export const phone_min = '@media only screen and (min-width: 0px)'
+export const phablet_min = '@media only screen and (min-width: 420px)'
+export const tablet_min = '@media only screen and (min-width: 768px)'
+export const desktop_min = '@media only screen and (min-width: 1024px)'
+export const hd_min = '@media only screen and (min-width: 1280px)'
