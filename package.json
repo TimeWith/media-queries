@@ -1,6 +1,6 @@
 {
   "name":"@time-with/media-queries",
-  "version":"1.0.3",
+  "version":"1.0.4",
   "description":"Javascript media queries",
   "main": "dist/index.js",
   "license": "MIT",

@@ -1,4 +1,4 @@
-# Timewith media queries
+# TimeWith media queries
 
 To use with glamorous / glamor
 
